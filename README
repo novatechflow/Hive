@@ -1,2 +1,8 @@
 Just a script to create example data and test the different SQL eingines (Hive, Tez, Presto, Impala)
 
+
+Background on novatechflow.com:
+- The Rise and Fall of SQL-on-Hadoop: What Happened and What Replaced It
+  https://www.novatechflow.com/2015/02/hadoop-based-sql-engines.html
+- Hive on Tez and Spark with Hive on CDH: What Was Faster and What Is Legacy Now
+  https://www.novatechflow.com/2016/01/apache-tez-on-cdh-54x.html
